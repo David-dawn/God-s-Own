@@ -15,7 +15,7 @@ const letter = [
   "Remember that God is with you every step of the way.",
   "You are capable of more than you realize.",
   "Go and shine.",
-  "- David",
+  "- Ife",
 ];
 
 export default function LetterSection() {
